@@ -2,6 +2,7 @@ body {
   margin: 0px;
   font-family: Arial;
 }
+
 .cabecalho {
   background-color: #FAD02C;
   padding: 10px;
@@ -12,9 +13,11 @@ body {
 div b {
   color: white;
 }
+
 .btn-intro a:hover {
   background-color: #0000001f;
 }
+
 .btn-intro, .btn-intro a{
   color:black;
   border-color: black;
@@ -26,6 +29,7 @@ div b {
   text-transform: uppercase;
   font-family: Arial;
 }
+
 .logo{
   width:40px; 
   height:40px;
